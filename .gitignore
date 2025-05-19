@@ -7,3 +7,23 @@ node_modules
 # Generated files
 .psci
 output
+
+*.bin
+*.pth
+*.wandb
+*.las
+data
+data/
+Partsize-identical/log/sem_seg/
+data/bridge-5cls-fukushima/
+data
+cache/
+utils/cache/
+wandb
+*.h5.pdf
+*.h5
+*.h5.png
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
