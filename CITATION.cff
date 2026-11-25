@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "BridgeSeg: structure-oriented semantic segmentation of bridge point clouds"
+version: 1.0.0
+repository-code: "https://github.com/UT-Team-Chun/BridgeSeg"
+license: MIT
+authors:
+  - family-names: Chen
+    given-names: Yu
+  - family-names: Lin
+    given-names: Chao
+  - family-names: Yamane
+    given-names: Tatsuro
+  - family-names: Kubo
+    given-names: Shiori
+  - family-names: Chun
+    given-names: Pang-jo
+preferred-citation:
+  type: article
+  title: "Structure-oriented deep learning for semantic segmentation of bridge point clouds"
+  journal: "Automation in Construction"
+  year: 2026
+  authors:
+    - family-names: Chen
+      given-names: Yu
+    - family-names: Lin
+      given-names: Chao
+    - family-names: Yamane
+      given-names: Tatsuro
+    - family-names: Kubo
+      given-names: Shiori
+    - family-names: Chun
+      given-names: Pang-jo

@@ -1,0 +1,8 @@
+# Python >= 3.9. Install PyTorch first for your CUDA version: https://pytorch.org/get-started/locally/
+# (tested with torch 2.1.0 + CUDA 12.1 on an RTX 4090; CPU works but is slow)
+torch>=1.13
+numpy>=1.21,<2
+scipy>=1.7
+h5py>=3.0
+laspy>=2.0          # .las input/output; for .laz also: pip install "laspy[lazrs]"
+tqdm
